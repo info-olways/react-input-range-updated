@@ -1,6 +1,6 @@
 {
   "name": "react-input-range-updated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React component for inputting numeric values within a range",
   "keywords": [
     "react",
@@ -17,7 +17,7 @@
     "url": "https://github.com/info-olways/react-input-range-updated.git"
   },
   "main": "lib/js/index.js",
-  "types": "react-input-range.d.ts",
+  "types": "react-input-range-updated.d.ts",
   "author": "Olways",
   "license": "MIT",
   "devDependencies": {
